@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![screenshot of sample](https://github.com/Zifirut/parallax_bg/blob/main/sample.gif)
+![screenshot of sample](https://github.com/Zifirut/recipe_app/blob/master/video.gif)
